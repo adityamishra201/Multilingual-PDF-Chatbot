@@ -1,0 +1,2 @@
+# config.py
+GROQ_API_KEY = "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"
